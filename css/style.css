@@ -1,0 +1,18 @@
+html {
+  background-image: url("../img/gameBackground.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+  /*background-image: url("../img/gameBackground.png");*/
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  width: 960px;
+  margin: auto;
+}
+h1 {
+  font-size: 4em;
+  color: red;
+}
